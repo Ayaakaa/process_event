@@ -3,7 +3,7 @@ import csv
 from modules.unit_story import UnitStory
 from utilities import get_character_name, get_character_id
 
-async def process_unit_story(path):
+def process_unit_story(path):
     with open(f'data/processed/event_story/{path}.csv', 'w', newline='') as file:
         writer = csv.writer(file)
         
@@ -14,7 +14,10 @@ async def process_unit_story(path):
             character_2d_id = data["TalkCharacters"][0]["Character2dId"]
             display_name = data["WindowDisplayName"]
             dialogue = data["Body"]
-            character_id = await get_character_id(character_2d_id)
-            character_name = await get_character_name(character_id)
+            character_id = get_character_id(character_2d_id)
+            character_name = get_character_name(character_id)
+            if character_name == False: character_name = display_name
             writer.writerow([character_name, dialogue])
-    return
+        print('done')
+        return
+    
