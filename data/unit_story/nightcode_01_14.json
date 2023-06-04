@@ -1,0 +1,4022 @@
+{
+    "ScenarioId": "nightcode_01_14",
+    "AppearCharacters": [
+        {
+            "Character2dId": 20,
+            "CostumeType": "20mizuki_cloth001"
+        },
+        {
+            "Character2dId": 19,
+            "CostumeType": "19ena_cloth001"
+        },
+        {
+            "Character2dId": 18,
+            "CostumeType": "18mafuyu_cloth001"
+        },
+        {
+            "Character2dId": 17,
+            "CostumeType": "17kanade_normal"
+        }
+    ],
+    "FirstLayout": [],
+    "FirstBgm": "bgm90040",
+    "FirstBackground": "bg_e000403",
+    "Snippets": [
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 0,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 0,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 0,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 1,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 1,
+            "Delay": 2.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 0,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 1,
+            "Delay": 1.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 2,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 2,
+            "Delay": 1.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 2,
+            "Delay": 5.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 3,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 1,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 4,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 5,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 3,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 3,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 4,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 6,
+            "Delay": 2.5
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 5,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 7,
+            "Delay": 3.5
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 6,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 8,
+            "Delay": 2.5
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 9,
+            "Delay": 6.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 7,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 10,
+            "Delay": 1.5
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 8,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 11,
+            "Delay": 5.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 9,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 12,
+            "Delay": 2.5
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 10,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 11,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 13,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 14,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 2,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 15,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 12,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 13,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 16,
+            "Delay": 5.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 14,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 4,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 3,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 5,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 4,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 17,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 18,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 19,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 5,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 6,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 15,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 20,
+            "Delay": 5.5
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 7,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 8,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 21,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 22,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 9,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 10,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 16,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 17,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 23,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 11,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 24,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 25,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 18,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 6,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 19,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 26,
+            "Delay": 3.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 20,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 27,
+            "Delay": 6.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 21,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 28,
+            "Delay": 4.5
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 22,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 29,
+            "Delay": 3.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 23,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 24,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 25,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 26,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 30,
+            "Delay": 4.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 27,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 31,
+            "Delay": 5.5
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 28,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 29,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 30,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 32,
+            "Delay": 8.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 31,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 32,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 33,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 33,
+            "Delay": 5.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 34,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 34,
+            "Delay": 4.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 35,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 35,
+            "Delay": 1.5
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 36,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 36,
+            "Delay": 4.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 37,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 38,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 39,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 40,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 41,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 37,
+            "Delay": 4.5
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 42,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 43,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 44,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 45,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 38,
+            "Delay": 3.5
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 46,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 39,
+            "Delay": 3.5
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 7,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 8,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 47,
+            "Delay": 1.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 48,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 40,
+            "Delay": 2.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 49,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 41,
+            "Delay": 3.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 9,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 10,
+            "Delay": 0.75
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 50,
+            "Delay": 1.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 42,
+            "Delay": 4.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 11,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 51,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 12,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 52,
+            "Delay": 1.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 43,
+            "Delay": 3.5
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 53,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 54,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 44,
+            "Delay": 5.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 12,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 13,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 13,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 45,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 46,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 47,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 14,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 15,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 55,
+            "Delay": 0.0
+        },
+        {
+            "Action": 4,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 48,
+            "Delay": 3.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 16,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 17,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 49,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 50,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 51,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 18,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 19,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 56,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 14,
+            "Delay": 0.0
+        },
+        {
+            "Action": 7,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 15,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 52,
+            "Delay": 0.5
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 53,
+            "Delay": 0.5
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 20,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 54,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 57,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 55,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 21,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 56,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 57,
+            "Delay": 0.0
+        },
+        {
+            "Action": 1,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 58,
+            "Delay": 0.0
+        },
+        {
+            "Action": 6,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 22,
+            "Delay": 0.5
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 1,
+            "ReferenceIndex": 58,
+            "Delay": 0.0
+        },
+        {
+            "Action": 2,
+            "ProgressBehavior": 0,
+            "ReferenceIndex": 59,
+            "Delay": 0.0
+        }
+    ],
+    "TalkData": [
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "25點嗎……",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_01_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "前一陣子氣氛弄得很尷尬，\n希望今天可以愉快一點……",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-cool-nod02",
+                    "FacialName": "face_sad_02",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_02_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 1,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「哈囉～！今天大家也一起加油吧～！\n……咦，只有繪名名在嗎？K呢？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-cool-glad01",
+                    "FacialName": "face_smile_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_03_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「……不在，她一直不在位置上。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_04_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「咦？該不會累倒了吧……？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-angry02",
+                    "FacialName": "face_notice_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_05_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「……不知道，我傳了訊息給她，但她沒有回。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-normal-tilthead02",
+                    "FacialName": "face_trouble_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_06_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「她還好嗎……\n果然，雪不在，要全部自己來太勉強了啦～」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-tilthead03",
+                    "FacialName": "face_sad_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_07_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「…………\n雪不在也沒關係吧。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-normal-tilthead05",
+                    "FacialName": "face_emptiness_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_08_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「真是的～繪名名，妳還在記恨啊？\n這麼生氣小心臉上長皺紋哦～？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-cool-tilthead02",
+                    "FacialName": "face_smile_06",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_09_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「我沒有生氣，\n只是覺得雪已經沒必要待在25而已。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cute-nod03",
+                    "FacialName": "face_sad_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_10_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「畢竟她寫得出那麼厲害的曲子，\n一個人也可以混得很好吧。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-normal-nod02",
+                    "FacialName": "face_sad_03",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_11_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「嗯，或許是這樣吧……」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-cool-tilthead04",
+                    "FacialName": "face_smallmouth_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_12_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "（……總覺得繪名名也有點怪呢。）",
+            "TalkTention": 0,
+            "LipSync": 2,
+            "MotionChangeFrom": 1,
+            "Motions": [],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_13_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "（不過我的狀態也沒有多好就是了。\n大家都有自己的煩惱吧。）",
+            "TalkTention": 0,
+            "LipSync": 2,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-nod02",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_14_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "（K和繪名名也是，肯定有很多……）",
+            "TalkTention": 0,
+            "LipSync": 2,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-nod05",
+                    "FacialName": "face_sad_02",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_15_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 1,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 18
+                }
+            ],
+            "WindowDisplayName": "？？？",
+            "Body": "畢竟K、繪名名、Amia，\n其實比任何人都還想要消失吧？",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 18,
+                    "MotionName": "w-normal-tilthead03",
+                    "FacialName": "face_darkness_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 18,
+                    "VoiceId": "voice_ms_night7_71_18",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 1,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「…………」",
+            "TalkTention": 0,
+            "LipSync": 2,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-tilthead04",
+                    "FacialName": "face_sad_02",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_17_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「雪她其實一直都很難受吧。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-nod05",
+                    "FacialName": "",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_18_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「咦？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_19_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「雪不見的那天，\n我不小心聽到了她和她媽媽的對話。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-tilthead03",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_20_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「她媽媽給人一種，習慣強加價值觀在她身上的感覺。\n但雪她好像完全不在意，就那樣接受了。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-cool-trouble01",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_21_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「我本來想說她覺得好就好，\n……但她在「世界」裡卻變成了那副樣子對吧？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-nod02",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_22_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「所以我想雪她是不是\n為了媽媽而勉強自己扮演著『乖孩子』呢？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-cool-tilthead02",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_23_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「…………」",
+            "TalkTention": 0,
+            "LipSync": 2,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cute-tilthead08",
+                    "FacialName": "face_emptiness_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_24_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「……不對，也許不只是為了媽媽。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-shakehead01",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_25_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「也許她為了配合周遭的人，\n改變了自己也說不定。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-tilthead02",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_26_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「覺得自己必須成為受大家仰慕、\n不給任何人添麻煩、所有人眼中的『乖孩子』……」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-nod02",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_27_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「我總覺得，是因為這些事情讓她太難受了，\n所以腦袋才變得那麼混亂吧。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-nod05",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_28_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「………………」",
+            "TalkTention": 0,
+            "LipSync": 2,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cute-tilthead01",
+                    "FacialName": "face_sad_03",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_29_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「……雖然我不是和雪一樣的乖孩子，」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-tilthead01",
+                    "FacialName": "face_smile_06",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_30_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「但我隱隱約約可以了解。\n我也知道那種必須配合環境改變自己的痛苦。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-sigh01",
+                    "FacialName": "face_sad_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_31_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「……原來Amia也會有這種想法啊。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cute-tilthead04",
+                    "FacialName": "face_smallmouth_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_32_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「還好啦～」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-tilthead01",
+                    "FacialName": "face_smile_06",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_33_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「等等、等等～！\n『也會有』是什麼意思！？\n我也有難過的時候好嗎～！？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-forward01",
+                    "FacialName": "face_surprise_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_34_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「啊……抱歉，\n可是Amia看起來一直都很自由、很開心。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-normal-tilthead06",
+                    "FacialName": "face_smallmouth_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_35_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「嗯？哎呀，那當然～！\n不好好享受人生很虧耶？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-tilthead02",
+                    "FacialName": "face_notice_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_36_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「一直想著負面的事情就不會開心嘛！\n繪名名也是，妳也希望每天都過得很嗨吧♪」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-angry02",
+                    "FacialName": "face_smile_04",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_37_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「嗯……我當然想快快樂樂的生活。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cute-tilthead02",
+                    "FacialName": "face_trouble_02",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_38_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「……不過，我想雪她做不到吧。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-cool-tilthead03",
+                    "FacialName": "face_smallmouth_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_39_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「一個人承受那些期待，所以達到極限了吧……」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-cool-tilthead04",
+                    "FacialName": "face_sad_02",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_40_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「…………」",
+            "TalkTention": 0,
+            "LipSync": 2,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cute-tilthead05",
+                    "FacialName": "face_emptiness_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_41_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「所以我在想，\n如果雪也是因為很痛苦才變成那樣，\n最後消失的話……」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-nod03",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_42_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「我應該會有點寂寞吧。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-tilthead03",
+                    "FacialName": "face_sad_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_43_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「…………」",
+            "TalkTention": 0,
+            "LipSync": 2,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cool-tilthead02",
+                    "FacialName": "face_sad_03",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_44_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「……我想和雪再聊一次。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-nod04",
+                    "FacialName": "face_smallmouth_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_45_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「只要播放那首《Untitled》就能過去了吧？\n既然這樣……」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-nod02",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_46_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「我記得未來是那樣說的沒錯……\n但最關鍵的雪那個樣子，就算去見她──」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cute-nod03",
+                    "FacialName": "face_smallmouth_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_47_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 1,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「……剛才那是什麼聲音？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cute-tilthead03",
+                    "FacialName": "face_surprise_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_48_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「啊！是OWN的……\n雪的新歌上傳通知！」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-angry02",
+                    "FacialName": "face_surprise_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_49_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「咦？又出新歌了嗎……？\n上一首明明才上傳沒多久──」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cute-tilthead08",
+                    "FacialName": "face_normal_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_50_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 1,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「咦？什麼，連續兩首？\n不對，連續三首……？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-happy-forward01",
+                    "FacialName": "face_notice_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_51_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「她是作了多少首啊？\n到底會是什麼樣的曲子……」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-cool-tilthead04",
+                    "FacialName": "face_smallmouth_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_52_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 1,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「……這首曲子怎麼搞的，\n比之前的還要……」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-happy-tilthead04",
+                    "FacialName": "face_surprise_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_53_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 20
+                }
+            ],
+            "WindowDisplayName": "瑞希",
+            "Body": "「哇，讓人起雞皮疙瘩……！！」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 20,
+                    "MotionName": "w-normal-fidget01",
+                    "FacialName": "face_notice_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 20,
+                    "VoiceId": "voice_ms_night14_54_20",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「這太誇張了吧……\n我不太會形容，但這已經……」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-normal-tilthead05",
+                    "FacialName": "face_trouble_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_55_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 1,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 18
+                }
+            ],
+            "WindowDisplayName": "？？？",
+            "Body": "如果這樣還是找不到的話，\n我就只能……消失了。",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 18,
+                    "MotionName": "w-normal-tilthead02",
+                    "FacialName": "face_angry_02",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 18,
+                    "VoiceId": "voice_ms_night7_66_18b",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 1,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 19
+                }
+            ],
+            "WindowDisplayName": "繪名",
+            "Body": "「……妳是認真的嗎？」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [
+                {
+                    "Character2dId": 19,
+                    "MotionName": "w-normal-tilthead02",
+                    "FacialName": "face_trouble_01",
+                    "TimingSyncValue": 0.0
+                }
+            ],
+            "Voices": [
+                {
+                    "Character2dId": 19,
+                    "VoiceId": "voice_ms_night14_57_19",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 1,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 17
+                }
+            ],
+            "WindowDisplayName": "奏",
+            "Body": "「……繪名名、Amia。」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [],
+            "Voices": [
+                {
+                    "Character2dId": 17,
+                    "VoiceId": "voice_ms_night14_58_17",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 0,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        },
+        {
+            "TalkCharacters": [
+                {
+                    "Character2dId": 900000
+                }
+            ],
+            "WindowDisplayName": "繪名、瑞希",
+            "Body": "「K！」",
+            "TalkTention": 0,
+            "LipSync": 1,
+            "MotionChangeFrom": 1,
+            "Motions": [],
+            "Voices": [
+                {
+                    "Character2dId": 900000,
+                    "VoiceId": "voice_ms_night14_59_90",
+                    "Volume": 1.0
+                }
+            ],
+            "Speed": 0.0,
+            "FontSize": 0,
+            "WhenFinishCloseWindow": 1,
+            "RequirePlayEffect": 0,
+            "EffectReferenceIdx": 0,
+            "RequirePlaySound": 0,
+            "SoundReferenceIdx": 0
+        }
+    ],
+    "LayoutData": [
+        {
+            "Type": 2,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "20mizuki_cloth001",
+            "MotionName": "w-cool-tilthead02",
+            "FacialName": "face_smallmouth_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-cool-blushed01",
+            "FacialName": "face_sad_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-cool-tilthead04",
+            "FacialName": "face_smallmouth_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 7,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 7,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "19ena_cloth001",
+            "MotionName": "w-cute-nod03",
+            "FacialName": "face_trouble_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-forward02",
+            "FacialName": "face_notice_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "w-normal-shakehead02",
+            "FacialName": "face_trouble_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-shakehead02",
+            "FacialName": "face_trouble_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-cool-trouble01",
+            "FacialName": "face_trouble_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "w-normal-shy01",
+            "FacialName": "face_angry_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-cool-blushed01",
+            "FacialName": "face_smile_04",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "w-cute-tilthead05",
+            "FacialName": "face_sad_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 7,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 7,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "face_smallmouth_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-tilthead02",
+            "FacialName": "face_smallmouth_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-tilthead03",
+            "FacialName": "face_smallmouth_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 7,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 7,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 18,
+            "CostumeType": "18mafuyu_cloth001",
+            "MotionName": "w-normal-pose03",
+            "FacialName": "face_darkness_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 18,
+            "CostumeType": "",
+            "MotionName": "w-normal-tilthead04",
+            "FacialName": "face_darkness_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 18,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "face_sad_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 7,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 7,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "w-cool-tilthead04",
+            "FacialName": "face_surprise_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-cool-nod01",
+            "FacialName": "face_normal_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-shakehead02",
+            "FacialName": "face_normal_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-tilthead02",
+            "FacialName": "face_normal_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-cool-nod03",
+            "FacialName": "face_normal_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-tilthead04",
+            "FacialName": "face_sad_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-nod04",
+            "FacialName": "face_normal_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-nod01",
+            "FacialName": "face_sad_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-forward02",
+            "FacialName": "face_trouble_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "w-normal-nod06",
+            "FacialName": "face_normal_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-nod02",
+            "FacialName": "face_smile_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-glad02",
+            "FacialName": "face_smile_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-tilthead04",
+            "FacialName": "face_normal_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-tilthead02",
+            "FacialName": "face_smallmouth_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "w-normal-tilthead02",
+            "FacialName": "face_sad_03",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-nod02",
+            "FacialName": "face_notice_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "w-cute-forward03",
+            "FacialName": "face_smallmouth_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-normal-shakehead03",
+            "FacialName": "face_smallmouth_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "w-happy-sad02",
+            "FacialName": "face_trouble_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "w-normal-shakehead05",
+            "FacialName": "face_emptiness_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 7,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 7,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 18,
+            "CostumeType": "",
+            "MotionName": "w-normal-posenod02",
+            "FacialName": "face_angry_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 0,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 18,
+            "CostumeType": "",
+            "MotionName": "w-normal-sad01",
+            "FacialName": "face_angry_02",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 18,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 7,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 7,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 7,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 7,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 17,
+            "CostumeType": "17kanade_normal",
+            "MotionName": "w-kanade-nod01",
+            "FacialName": "face_serious_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 4,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 4,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 17,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "w-happy-angry02",
+            "FacialName": "face_surprise_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 2,
+            "SideFrom": 7,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 7,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "w-cute-nod02",
+            "FacialName": "face_surprise_01",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 3,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 3,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 20,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        },
+        {
+            "Type": 3,
+            "SideFrom": 7,
+            "SideFromOffsetX": 0.0,
+            "SideTo": 7,
+            "SideToOffsetX": 0.0,
+            "DepthType": 0,
+            "Character2dId": 19,
+            "CostumeType": "",
+            "MotionName": "",
+            "FacialName": "",
+            "MoveSpeedType": 0
+        }
+    ],
+    "SpecialEffectData": [
+        {
+            "EffectType": 8,
+            "StringVal": "瑞希的房間",
+            "StringValSub": "",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 7,
+            "StringVal": "bg_h000409",
+            "StringValSub": "bg_h000409",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 7,
+            "StringVal": "bg_e000403",
+            "StringValSub": "bg_e000403",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 4,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.10000000149011612,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 7,
+            "StringVal": "bg_e000501",
+            "StringValSub": "bg_e000501",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 9,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 3,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.10000000149011612,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 4,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.10000000149011612,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 7,
+            "StringVal": "bg_e000403",
+            "StringValSub": "bg_e000403",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 10,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 3,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.10000000149011612,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 7,
+            "StringVal": "bg_h000409",
+            "StringValSub": "bg_h000409",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 4,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.10000000149011612,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 7,
+            "StringVal": "bg_e000501",
+            "StringValSub": "bg_e000501",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 9,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 3,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.10000000149011612,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 4,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.10000000149011612,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 7,
+            "StringVal": "bg_h000409",
+            "StringValSub": "bg_h000409",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 10,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 3,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 0.10000000149011612,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 7,
+            "StringVal": "bg_e000102",
+            "StringValSub": "bg_e000102",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 7,
+            "StringVal": "bg_h000409",
+            "StringValSub": "bg_h000409",
+            "Duration": 0.0,
+            "IntVal": 0
+        },
+        {
+            "EffectType": 2,
+            "StringVal": "",
+            "StringValSub": "",
+            "Duration": 2.5,
+            "IntVal": 0
+        }
+    ],
+    "SoundData": [
+        {
+            "PlayMode": 0,
+            "Bgm": "",
+            "Se": "se00007",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 0.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "",
+            "Se": "se00084",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 0.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "bgm00000",
+            "Se": "",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 0.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "bgm00024",
+            "Se": "",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 2.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "bgm00000",
+            "Se": "",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 1.5
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "",
+            "Se": "se00053",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 0.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "bgm00039",
+            "Se": "",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 2.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "bgm00000",
+            "Se": "",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 1.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "",
+            "Se": "se00004",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 0.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "",
+            "Se": "se00004",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 0.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "",
+            "Se": "se00004",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 0.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "bgm00021",
+            "Se": "",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 2.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "",
+            "Se": "se00007",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 0.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "",
+            "Se": "se00053",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 0.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "",
+            "Se": "se00084",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 0.0
+        },
+        {
+            "PlayMode": 0,
+            "Bgm": "bgm00000",
+            "Se": "",
+            "Volume": 1.0,
+            "SeBundleName": "",
+            "Duration": 1.0
+        }
+    ],
+    "NeedBundleNames": [
+        "scenario/background/bg_e000403",
+        "scenario/background/bg_h000409",
+        "scenario/background/bg_e000501",
+        "scenario/background/bg_e000102"
+    ],
+    "IncludeSoundDataBundleNames": []
+}
