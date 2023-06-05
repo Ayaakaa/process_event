@@ -1,12 +1,15 @@
 import json
 import requests
 import csv
+import os
 
 from data import api, jp_diff, jp_asset, tw_diff, tw_asset
 
-def process_json(path: str):
-    try: f = open(f'data/raw/unit_story/{path}.json')
-    except: f = open(f'data/raw/event_story/{path}.json')
+def process_json(location1, location2, path: str):
+    if location1 != None:
+        f = open(f'data/raw/{location1}/{location2}/{path}')
+    else:
+        f = open(f'data/raw/{location2}/{path}')
     data = json.load(f)
     f.close()
     return data
@@ -54,8 +57,20 @@ def get_character_name(character_id: int):
     character_data = get_sekai_data(server=f'tw', type='diff', path='main/gameCharacters.json') 
     for character in character_data:
         if character_id == character['id']:
-            first_name = character['firstName']
-            last_name = character['givenName']
+            try: first_name = character['firstName']
+            except: first_name = ''
+            try: last_name = character['givenName']
+            except: last_name = ''
             name = f'{first_name}{last_name}'
-            return name
+            if name == '': return False
+            else:
+                return name
     return False
+
+def get_files(folder_path: str):
+    files = [f for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f))]
+    return files
+
+def get_folders(folder_path: str):
+    folders = [f for f in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, f))]
+    return folders
